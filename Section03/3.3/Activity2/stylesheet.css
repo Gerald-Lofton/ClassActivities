@@ -1,0 +1,37 @@
+* {
+  border: 5px solid;
+}
+body {
+  background-color: #0a0c10;
+  outline-color: aqua;
+}
+h1 {
+  font-size: large;
+  font-family: sans-serif;
+}
+h4 {
+  color: aliceblue;
+}
+#img {
+  size: 50px;
+  padding: auto;
+  border-radius: 0%;
+}
+href {
+  color: green;
+}
+#text {
+  color: blue;
+}
+html {
+  color: aliceblue;
+}
+a {
+  color: green;
+  font-size: medium;
+  font-style: oblique;
+}
+.uno {
+  font-style: italic;
+  color: red;
+}
